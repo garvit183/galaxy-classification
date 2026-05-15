@@ -21,3 +21,6 @@ data/*.csv
 
 # Editor
 .vscode/
+
+# Local GitHub CLI auth config used by Codex during setup
+.gh-config/
